@@ -1,0 +1,33 @@
+body {background-color: offwhite;}
+
+.jumbotron {
+	background-image: url("mission_to_mars.jpg");
+    color: blue;
+    font-weight: 800;
+}
+
+h2 {
+    font-weight: bold;
+    color: black;
+}
+
+.featured {
+    height: auto;
+    width: 100%;
+    float: left;
+}
+
+.border {
+    border-width: 1px;
+    border-color: lightgray;
+}
+
+.hemispheres {
+    text-align: center;
+}
+
+.caption {
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;   
+}
